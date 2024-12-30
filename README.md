@@ -4,6 +4,9 @@ This repository contains the supplementary digital resources, scripts, and files
 
 ## How to cite
 
+Please acknowledge the preprint:
+Porter, T. M., Morris, D. M., Smenderovac, E., Emilson, E. J. S., & Venier, L. (2024). Soil communities following clearcut and salvage harvest have different early successional dynamics compared with post-wildfire patterns. BioRxiv, https://doi.org/10.1101/2024.11.10.622867
+
 ## Digital Resources
 
 ## Infiles
