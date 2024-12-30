@@ -18,7 +18,21 @@ The following curated and trained naive Bayesian classifiers are available from:
 
 ## Infiles
 
+1. Site metadata metadata_2024-11-10.csv
+2. Summary of vegetation data veg.csv
+3. Bacterial sample x sequence variant matrix 16S_results.csv
+4. Fungal sample x sequence variant matrix ITS_results.csv
+5. Arthropod sample x sequence variant matrices F230_results.csv and BE_results.csv
+
 ## R Scripts
+
+1. tax_summary.R generates a file needed for later analyses so run this first
+1. Fig1_map.R
+2. Fig2_Fig3_Harvest_Wildfire_Richness_Beta.R
+3. Fig4_HarvestWildfireSalvage_2023-11-30.R
+4. FigS1_Rarefaction.R
+5. FigS2_taxonomic_comparison.R
+6. TableS1_site_characteristics.R
 
 ## References
 
@@ -44,4 +58,4 @@ Wang, Q., Garrity, G. M., Tiedje, J. M., & Cole, J. R. (2007). Naive Bayesian Cl
 
 I would like to acknowledge funding from the Canadian government from the Genomics Research and Development Initiative (GRDI), Metagenomics-Based Ecosystem Biomonitoring (Ecobiomics) project.
 
-Last updated: October 27, 2024
+Last updated: December 30, 2024
