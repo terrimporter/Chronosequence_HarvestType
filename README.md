@@ -13,7 +13,7 @@ The code for the MetaWorks bioinformatic pipeline that we developed to process m
 
 The following curated and trained naive Bayesian classifiers are available from:  
   ITS - https://github.com/terrimporter/UNITE_ITSClassifier, the original UNITE reference set is available from https://unite.ut.ee/repository.php  
-  COI - https://github.com/terrimporter/CO1Classifier (our publication is here https://www.nature.com/articles/s41598-018-22505-4)  
+  COI - https://github.com/terrimporter/CO1Classifier and our publication is here https://www.nature.com/articles/s41598-018-22505-4  
   16S - comes with the Ribosomal Database Project Naive Bayesian Classifier, the original code for this is available from https://sourceforge.net/projects/rdp-classifier/  
 
 ## Infiles
