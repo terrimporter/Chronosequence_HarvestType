@@ -1,5 +1,7 @@
 # README
 
+[![DOI](https://zenodo.org/badge/879410210.svg)](https://doi.org/10.5281/zenodo.17114381)
+
 This repository contains the supplementary scripts and files used in the preprint Porter et al., 2024 "Soil communities following clearcut and salvage harvest have different early successional dynamics compared with post-wildfire patterns."
 
 ## How to cite
