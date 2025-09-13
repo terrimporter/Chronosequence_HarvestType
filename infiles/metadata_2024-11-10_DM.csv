@@ -1,0 +1,278 @@
+﻿Study,SampleIdentifier,SiteCode,SiteCodeDM,Plot,Replicate,Layer,SamplingYear,Disturbance,DevStage,DevStageDM,StandAge2017,DisturbanceType,Latitude,Longitude,SiteName,SiteNameDM,pH,TOC_gkg,TN_gkg
+Chronosequence,GA-20170705-F-1L,GA,1,s1,1,B,2017,Fire,Establishment,R,12,,49.766218,-89.891251,GardenLakeA,Garden Lk A,5.52,431.38,11.67
+Chronosequence,GA-20170705-F-2L,GA,1,s1,2,B,2017,Fire,Establishment,R,12,,49.766218,-89.891251,GardenLakeA,Garden Lk A,5.52,431.38,11.67
+Chronosequence,GA-20170705-F-3L,GA,1,s1,3,B,2017,Fire,Establishment,R,12,,49.766218,-89.891251,GardenLakeA,Garden Lk A,5.52,431.38,11.67
+Chronosequence,GA-20170705-F-1M,GA,1,s1,1,M,2017,Fire,Establishment,R,12,,49.766218,-89.891251,GardenLakeA,Garden Lk A,5.85,18.12,0.92
+Chronosequence,GA-20170705-F-2M,GA,1,s1,2,M,2017,Fire,Establishment,R,12,,49.766218,-89.891251,GardenLakeA,Garden Lk A,5.85,18.12,0.92
+Chronosequence,GA-20170705-F-3M,GA,1,s1,3,M,2017,Fire,Establishment,R,12,,49.766218,-89.891251,GardenLakeA,Garden Lk A,5.85,18.12,0.92
+Chronosequence,GA-20170705-F-2F,GA,1,s1,2,O,2017,Fire,Establishment,R,12,,49.766218,-89.891251,GardenLakeA,Garden Lk A,6.1,289.45,11.26
+Chronosequence,GA-20170705-F-3F,GA,1,s1,3,O,2017,Fire,Establishment,R,12,,49.766218,-89.891251,GardenLakeA,Garden Lk A,6.1,289.45,11.26
+Chronosequence,GB-20170705-F-1L,GB,2,s2,1,B,2017,Fire,Establishment,R,12,,49.727046,-89.919259,GardenLakeB,Garden Lk B,5.75,427.57,13.31
+Chronosequence,GB-20170705-F-2L,GB,2,s2,2,B,2017,Fire,Establishment,R,12,,49.727046,-89.919259,GardenLakeB,Garden Lk B,5.75,427.57,13.31
+Chronosequence,GB-20170705-F-3L,GB,2,s2,3,B,2017,Fire,Establishment,R,12,,49.727046,-89.919259,GardenLakeB,Garden Lk B,5.75,427.57,13.31
+Chronosequence,GB-20170705-F-1M,GB,2,s2,1,M,2017,Fire,Establishment,R,12,,49.727046,-89.919259,GardenLakeB,Garden Lk B,5.34,16.47,0.81
+Chronosequence,GB-20170705-F-2M,GB,2,s2,2,M,2017,Fire,Establishment,R,12,,49.727046,-89.919259,GardenLakeB,Garden Lk B,5.34,16.47,0.81
+Chronosequence,GB-20170705-F-3M,GB,2,s2,3,M,2017,Fire,Establishment,R,12,,49.727046,-89.919259,GardenLakeB,Garden Lk B,5.34,16.47,0.81
+Chronosequence,GB-20170705-F-1F,GB,2,s2,1,O,2017,Fire,Establishment,R,12,,49.727046,-89.919259,GardenLakeB,Garden Lk B,5.95,337.86,14.23
+Chronosequence,GB-20170705-F-2F,GB,2,s2,2,O,2017,Fire,Establishment,R,12,,49.727046,-89.919259,GardenLakeB,Garden Lk B,5.95,337.86,14.23
+Chronosequence,GB-20170705-F-3F,GB,2,s2,3,O,2017,Fire,Establishment,R,12,,49.727046,-89.919259,GardenLakeB,Garden Lk B,5.95,337.86,14.23
+Chronosequence,GC-20170705-F-1L,GC,3,s3,1,B,2017,Fire,Establishment,R,12,,49.742774,-89.911694,GardenLakeC,Garden Lk C,5.77,435.81,13.68
+Chronosequence,GC-20170705-F-2L,GC,3,s3,2,B,2017,Fire,Establishment,R,12,,49.742774,-89.911694,GardenLakeC,Garden Lk C,5.77,435.81,13.68
+Chronosequence,GC-20170705-F-3L,GC,3,s3,3,B,2017,Fire,Establishment,R,12,,49.742774,-89.911694,GardenLakeC,Garden Lk C,5.77,435.81,13.68
+Chronosequence,GC-20170705-F-1M,GC,3,s3,1,M,2017,Fire,Establishment,R,12,,49.742774,-89.911694,GardenLakeC,Garden Lk C,6.01,17.73,0.93
+Chronosequence,GC-20170705-F-2M,GC,3,s3,2,M,2017,Fire,Establishment,R,12,,49.742774,-89.911694,GardenLakeC,Garden Lk C,6.01,17.73,0.93
+Chronosequence,GC-20170705-F-3M,GC,3,s3,3,M,2017,Fire,Establishment,R,12,,49.742774,-89.911694,GardenLakeC,Garden Lk C,6.01,17.73,0.93
+Chronosequence,GC-20170705-F-1F,GC,3,s3,1,O,2017,Fire,Establishment,R,12,,49.742774,-89.911694,GardenLakeC,Garden Lk C,5.67,236.52,11.27
+Chronosequence,GC-20170705-F-2F,GC,3,s3,2,O,2017,Fire,Establishment,R,12,,49.742774,-89.911694,GardenLakeC,Garden Lk C,5.67,236.52,11.27
+Chronosequence,GC-20170705-F-3F,GC,3,s3,3,O,2017,Fire,Establishment,R,12,,49.742774,-89.911694,GardenLakeC,Garden Lk C,5.67,236.52,11.27
+Chronosequence,B20-20170705-F-1L,B20,4,s4,1,B,2017,Fire,CrownClosure,R-CC,21,,49.894908,-91.513251,Boot20,Boot Burn,4.91,481.75,9.28
+Chronosequence,B20-20170705-F-2L,B20,4,s4,2,B,2017,Fire,CrownClosure,R-CC,21,,49.894908,-91.513251,Boot20,Boot Burn,4.91,481.75,9.28
+Chronosequence,B20-20170705-F-3L,B20,4,s4,3,B,2017,Fire,CrownClosure,R-CC,21,,49.894908,-91.513251,Boot20,Boot Burn,4.91,481.75,9.28
+Chronosequence,B20-20170705-F-1M,B20,4,s4,1,M,2017,Fire,CrownClosure,R-CC,21,,49.894908,-91.513251,Boot20,Boot Burn,5.4,12.77,0.48
+Chronosequence,B20-20170705-F-2M,B20,4,s4,2,M,2017,Fire,CrownClosure,R-CC,21,,49.894908,-91.513251,Boot20,Boot Burn,5.4,12.77,0.48
+Chronosequence,B20-20170705-F-3M,B20,4,s4,3,M,2017,Fire,CrownClosure,R-CC,21,,49.894908,-91.513251,Boot20,Boot Burn,5.4,12.77,0.48
+Chronosequence,B20-20170705-F-1F,B20,4,s4,1,O,2017,Fire,CrownClosure,R-CC,21,,49.894908,-91.513251,Boot20,Boot Burn,4.73,500.68,11.18
+Chronosequence,B20-20170705-F-2F,B20,4,s4,2,O,2017,Fire,CrownClosure,R-CC,21,,49.894908,-91.513251,Boot20,Boot Burn,4.73,500.68,11.18
+Chronosequence,B20-20170705-F-3F,B20,4,s4,3,O,2017,Fire,CrownClosure,R-CC,21,,49.894908,-91.513251,Boot20,Boot Burn,4.73,500.68,11.18
+Chronosequence,H20-20170705-F-1L,H20,5,s5,1,B,2017,Fire,CrownClosure,R-CC,21,,49.834921,-91.384118,Hut20,Hut,4.77,501.23,8.85
+Chronosequence,H20-20170705-F-2L,H20,5,s5,2,B,2017,Fire,CrownClosure,R-CC,21,,49.834921,-91.384118,Hut20,Hut,4.77,501.23,8.85
+Chronosequence,H20-20170705-F-3L,H20,5,s5,3,B,2017,Fire,CrownClosure,R-CC,21,,49.834921,-91.384118,Hut20,Hut,4.77,501.23,8.85
+Chronosequence,H20-20170705-F-1M,H20,5,s5,1,M,2017,Fire,CrownClosure,R-CC,21,,49.834921,-91.384118,Hut20,Hut,5.07,15.19,0.54
+Chronosequence,H20-20170705-F-2M,H20,5,s5,2,M,2017,Fire,CrownClosure,R-CC,21,,49.834921,-91.384118,Hut20,Hut,5.07,15.19,0.54
+Chronosequence,H20-20170705-F-3M,H20,5,s5,3,M,2017,Fire,CrownClosure,R-CC,21,,49.834921,-91.384118,Hut20,Hut,5.07,15.19,0.54
+Chronosequence,H20-20170705-F-1F,H20,5,s5,1,O,2017,Fire,CrownClosure,R-CC,21,,49.834921,-91.384118,Hut20,Hut,4.56,499.46,11.17
+Chronosequence,H20-20170705-F-2F,H20,5,s5,2,O,2017,Fire,CrownClosure,R-CC,21,,49.834921,-91.384118,Hut20,Hut,4.56,499.46,11.17
+Chronosequence,H20-20170705-F-3F,H20,5,s5,3,O,2017,Fire,CrownClosure,R-CC,21,,49.834921,-91.384118,Hut20,Hut,4.56,499.46,11.17
+Chronosequence,N21-20170705-F-1L,N21,6,s6,1,B,2017,Fire,CrownClosure,CC,21,,49.593279,-91.867677,NewHook21,New Hook,5.88,517.2,18.72
+Chronosequence,N21-20170705-F-2L,N21,6,s6,2,B,2017,Fire,CrownClosure,CC,21,,49.593279,-91.867677,NewHook21,New Hook,5.88,517.2,18.72
+Chronosequence,N21-20170705-F-3L,N21,6,s6,3,B,2017,Fire,CrownClosure,CC,21,,49.593279,-91.867677,NewHook21,New Hook,5.88,517.2,18.72
+Chronosequence,N21-20170705-F-1M,N21,6,s6,1,M,2017,Fire,CrownClosure,CC,21,,49.593279,-91.867677,NewHook21,New Hook,5.82,8.93,0.48
+Chronosequence,N21-20170705-F-2M,N21,6,s6,2,M,2017,Fire,CrownClosure,CC,21,,49.593279,-91.867677,NewHook21,New Hook,5.82,8.93,0.48
+Chronosequence,N21-20170705-F-3M,N21,6,s6,3,M,2017,Fire,CrownClosure,CC,21,,49.593279,-91.867677,NewHook21,New Hook,5.82,8.93,0.48
+Chronosequence,N21-20170705-F-1F,N21,6,s6,1,O,2017,Fire,CrownClosure,CC,21,,49.593279,-91.867677,NewHook21,New Hook,5.59,456,20.9
+Chronosequence,N21-20170705-F-2F,N21,6,s6,2,O,2017,Fire,CrownClosure,CC,21,,49.593279,-91.867677,NewHook21,New Hook,5.59,456,20.9
+Chronosequence,N21-20170705-F-3F,N21,6,s6,3,O,2017,Fire,CrownClosure,CC,21,,49.593279,-91.867677,NewHook21,New Hook,5.59,456,20.9
+Chronosequence,L38-20170705-F-1L,L38,7,s7,1,B,2017,Fire,Thinning,CC-OST,38,,50.048067,-91.436462,LowerDominion38,Lower Dominion,5.22,482.01,11.02
+Chronosequence,L38-20170705-F-2L,L38,7,s7,2,B,2017,Fire,Thinning,CC-OST,38,,50.048067,-91.436462,LowerDominion38,Lower Dominion,5.22,482.01,11.02
+Chronosequence,L38-20170705-F-3L,L38,7,s7,3,B,2017,Fire,Thinning,CC-OST,38,,50.048067,-91.436462,LowerDominion38,Lower Dominion,5.22,482.01,11.02
+Chronosequence,L38-20170705-F-1M,L38,7,s7,1,M,2017,Fire,Thinning,CC-OST,38,,50.048067,-91.436462,LowerDominion38,Lower Dominion,5.19,9.75,0.47
+Chronosequence,L38-20170705-F-2M,L38,7,s7,2,M,2017,Fire,Thinning,CC-OST,38,,50.048067,-91.436462,LowerDominion38,Lower Dominion,5.19,9.75,0.47
+Chronosequence,L38-20170705-F-3M,L38,7,s7,3,M,2017,Fire,Thinning,CC-OST,38,,50.048067,-91.436462,LowerDominion38,Lower Dominion,5.19,9.75,0.47
+Chronosequence,L38-20170705-F-1F,L38,7,s7,1,O,2017,Fire,Thinning,CC-OST,38,,50.048067,-91.436462,LowerDominion38,Lower Dominion,4.72,483.51,14.85
+Chronosequence,L38-20170705-F-2F,L38,7,s7,2,O,2017,Fire,Thinning,CC-OST,38,,50.048067,-91.436462,LowerDominion38,Lower Dominion,4.72,483.51,14.85
+Chronosequence,L38-20170705-F-3F,L38,7,s7,3,O,2017,Fire,Thinning,CC-OST,38,,50.048067,-91.436462,LowerDominion38,Lower Dominion,4.72,483.51,14.85
+Chronosequence,CL37-20170705-F-1L,CL37,8,s8,1,B,2017,Fire,Thinning,CC-OST,37,,49.969626,-91.064493,CobbLake37,Cobb Lake,5.24,503.01,9.26
+Chronosequence,CL37-20170705-F-2L,CL37,8,s8,2,B,2017,Fire,Thinning,CC-OST,37,,49.969626,-91.064493,CobbLake37,Cobb Lake,5.24,503.01,9.26
+Chronosequence,CL37-20170705-F-3L,CL37,8,s8,3,B,2017,Fire,Thinning,CC-OST,37,,49.969626,-91.064493,CobbLake37,Cobb Lake,5.24,503.01,9.26
+Chronosequence,CL37-20170705-F-1M,CL37,8,s8,1,M,2017,Fire,Thinning,CC-OST,37,,49.969626,-91.064493,CobbLake37,Cobb Lake,5.93,9.66,0.37
+Chronosequence,CL37-20170705-F-2M,CL37,8,s8,2,M,2017,Fire,Thinning,CC-OST,37,,49.969626,-91.064493,CobbLake37,Cobb Lake,5.93,9.66,0.37
+Chronosequence,CL37-20170705-F-3M,CL37,8,s8,3,M,2017,Fire,Thinning,CC-OST,37,,49.969626,-91.064493,CobbLake37,Cobb Lake,5.93,9.66,0.37
+Chronosequence,CL37-20170705-F-1F,CL37,8,s8,1,O,2017,Fire,Thinning,CC-OST,37,,49.969626,-91.064493,CobbLake37,Cobb Lake,4.52,497.89,11.68
+Chronosequence,CL37-20170705-F-2F,CL37,8,s8,2,O,2017,Fire,Thinning,CC-OST,37,,49.969626,-91.064493,CobbLake37,Cobb Lake,4.52,497.89,11.68
+Chronosequence,CL37-20170705-F-3F,CL37,8,s8,3,O,2017,Fire,Thinning,CC-OST,37,,49.969626,-91.064493,CobbLake37,Cobb Lake,4.52,497.89,11.68
+Chronosequence,CB37-20170705-F-1L,CB37,9,s9,1,B,2017,Fire,Thinning,CC-OST,37,,50.010473,-91.01767,CobbBay37,Cobb Bay,4.54,496.64,8.22
+Chronosequence,CB37-20170705-F-2L,CB37,9,s9,2,B,2017,Fire,Thinning,CC-OST,37,,50.010473,-91.01767,CobbBay37,Cobb Bay,4.54,496.64,8.22
+Chronosequence,CB37-20170705-F-3L,CB37,9,s9,3,B,2017,Fire,Thinning,CC-OST,37,,50.010473,-91.01767,CobbBay37,Cobb Bay,4.54,496.64,8.22
+Chronosequence,CB37-20170705-F-1M,CB37,9,s9,1,M,2017,Fire,Thinning,CC-OST,37,,50.010473,-91.01767,CobbBay37,Cobb Bay,5.42,9.23,0.34
+Chronosequence,CB37-20170705-F-2M,CB37,9,s9,2,M,2017,Fire,Thinning,CC-OST,37,,50.010473,-91.01767,CobbBay37,Cobb Bay,5.42,9.23,0.34
+Chronosequence,CB37-20170705-F-3M,CB37,9,s9,3,M,2017,Fire,Thinning,CC-OST,37,,50.010473,-91.01767,CobbBay37,Cobb Bay,5.42,9.23,0.34
+Chronosequence,CB37-20170705-F-1F,CB37,9,s9,1,O,2017,Fire,Thinning,CC-OST,37,,50.010473,-91.01767,CobbBay37,Cobb Bay,4.62,476.86,12.67
+Chronosequence,CB37-20170705-F-2F,CB37,9,s9,2,O,2017,Fire,Thinning,CC-OST,37,,50.010473,-91.01767,CobbBay37,Cobb Bay,4.62,476.86,12.67
+Chronosequence,CB37-20170705-F-3F,CB37,9,s9,3,O,2017,Fire,Thinning,CC-OST,37,,50.010473,-91.01767,CobbBay37,Cobb Bay,4.62,476.86,12.67
+Chronosequence,E90-20170705-F-1L,E90,10,s10,1,B,2017,Fire,Mature,M,90,,49.858677,-91.3784,Elipse90,Elipse 90,4.85,475,9.02
+Chronosequence,E90-20170705-F-2L,E90,10,s10,2,B,2017,Fire,Mature,M,90,,49.858677,-91.3784,Elipse90,Elipse 90,4.85,475,9.02
+Chronosequence,E90-20170705-F-3L,E90,10,s10,3,B,2017,Fire,Mature,M,90,,49.858677,-91.3784,Elipse90,Elipse 90,4.85,475,9.02
+Chronosequence,E90-20170705-F-1M,E90,10,s10,1,M,2017,Fire,Mature,M,90,,49.858677,-91.3784,Elipse90,Elipse 90,5.42,6.99,0.32
+Chronosequence,E90-20170705-F-2M,E90,10,s10,2,M,2017,Fire,Mature,M,90,,49.858677,-91.3784,Elipse90,Elipse 90,5.42,6.99,0.32
+Chronosequence,E90-20170705-F-3M,E90,10,s10,3,M,2017,Fire,Mature,M,90,,49.858677,-91.3784,Elipse90,Elipse 90,5.42,6.99,0.32
+Chronosequence,E90-20170705-F-1F,E90,10,s10,1,O,2017,Fire,Mature,M,90,,49.858677,-91.3784,Elipse90,Elipse 90,4.73,486.92,13.14
+Chronosequence,E90-20170705-F-2F,E90,10,s10,2,O,2017,Fire,Mature,M,90,,49.858677,-91.3784,Elipse90,Elipse 90,4.73,486.92,13.14
+Chronosequence,E90-20170705-F-3F,E90,10,s10,3,O,2017,Fire,Mature,M,90,,49.858677,-91.3784,Elipse90,Elipse 90,4.73,486.92,13.14
+Chronosequence,SDS-20170705-F-1L,SDS,11,s11,1,B,2017,Fire,Mature,M,85,,49.786787,-91.179047,SilverDollar,Silver Dollar,5.11,507.69,9.52
+Chronosequence,SDS-20170705-F-2L,SDS,11,s11,2,B,2017,Fire,Mature,M,85,,49.786787,-91.179047,SilverDollar,Silver Dollar,5.11,507.69,9.52
+Chronosequence,SDS-20170705-F-3L,SDS,11,s11,3,B,2017,Fire,Mature,M,85,,49.786787,-91.179047,SilverDollar,Silver Dollar,5.11,507.69,9.52
+Chronosequence,SDS-20170705-F-1M,SDS,11,s11,1,M,2017,Fire,Mature,M,85,,49.786787,-91.179047,SilverDollar,Silver Dollar,5.06,10.96,0.41
+Chronosequence,SDS-20170705-F-2M,SDS,11,s11,2,M,2017,Fire,Mature,M,85,,49.786787,-91.179047,SilverDollar,Silver Dollar,5.06,10.96,0.41
+Chronosequence,SDS-20170705-F-3M,SDS,11,s11,3,M,2017,Fire,Mature,M,85,,49.786787,-91.179047,SilverDollar,Silver Dollar,5.06,10.96,0.41
+Chronosequence,SDS-20170705-F-1F,SDS,11,s11,1,O,2017,Fire,Mature,M,85,,49.786787,-91.179047,SilverDollar,Silver Dollar,4.3,463.22,11.85
+Chronosequence,SDS-20170705-F-2F,SDS,11,s11,2,O,2017,Fire,Mature,M,85,,49.786787,-91.179047,SilverDollar,Silver Dollar,4.3,463.22,11.85
+Chronosequence,SDS-20170705-F-3F,SDS,11,s11,3,O,2017,Fire,Mature,M,85,,49.786787,-91.179047,SilverDollar,Silver Dollar,4.3,463.22,11.85
+Chronosequence,E81-20170705-F-1L,E81,12,s12,1,B,2017,Fire,Mature,LST-M,81,,49.878752,-91.152872,ElvaLake81,Elva S,5.39,485.98,11.15
+Chronosequence,E81-20170705-F-2L,E81,12,s12,2,B,2017,Fire,Mature,LST-M,81,,49.878752,-91.152872,ElvaLake81,Elva S,5.39,485.98,11.15
+Chronosequence,E81-20170705-F-3L,E81,12,s12,3,B,2017,Fire,Mature,LST-M,81,,49.878752,-91.152872,ElvaLake81,Elva S,5.39,485.98,11.15
+Chronosequence,E81-20170705-F-1M,E81,12,s12,1,M,2017,Fire,Mature,LST-M,81,,49.878752,-91.152872,ElvaLake81,Elva S,5.22,14.59,0.71
+Chronosequence,E81-20170705-F-2M,E81,12,s12,2,M,2017,Fire,Mature,LST-M,81,,49.878752,-91.152872,ElvaLake81,Elva S,5.22,14.59,0.71
+Chronosequence,E81-20170705-F-3M,E81,12,s12,3,M,2017,Fire,Mature,LST-M,81,,49.878752,-91.152872,ElvaLake81,Elva S,5.22,14.59,0.71
+Chronosequence,E81-20170705-F-1F,E81,12,s12,1,O,2017,Fire,Mature,LST-M,81,,49.878752,-91.152872,ElvaLake81,Elva S,4.63,451.84,14.18
+Chronosequence,E81-20170705-F-2F,E81,12,s12,2,O,2017,Fire,Mature,LST-M,81,,49.878752,-91.152872,ElvaLake81,Elva S,4.63,451.84,14.18
+Chronosequence,E81-20170705-F-3F,E81,12,s12,3,O,2017,Fire,Mature,LST-M,81,,49.878752,-91.152872,ElvaLake81,Elva S,4.63,451.84,14.18
+Chronosequence,12H-20170705-H-1L,12H,13,s13,1,B,2017,Harvest,Establishment,R,12,,49.80643,-91.233474,12yrHarvest,12 Yr Harv.,5.78,485.22,12.77
+Chronosequence,12H-20170705-H-2L,12H,13,s13,2,B,2017,Harvest,Establishment,R,12,,49.80643,-91.233474,12yrHarvest,12 Yr Harv.,5.78,485.22,12.77
+Chronosequence,12H-20170705-H-3L,12H,13,s13,3,B,2017,Harvest,Establishment,R,12,,49.80643,-91.233474,12yrHarvest,12 Yr Harv.,5.78,485.22,12.77
+Chronosequence,12H-20170705-H-1M,12H,13,s13,1,M,2017,Harvest,Establishment,R,12,,49.80643,-91.233474,12yrHarvest,12 Yr Harv.,5.31,14.5,0.71
+Chronosequence,12H-20170705-H-2M,12H,13,s13,2,M,2017,Harvest,Establishment,R,12,,49.80643,-91.233474,12yrHarvest,12 Yr Harv.,5.31,14.5,0.71
+Chronosequence,12H-20170705-H-3M,12H,13,s13,3,M,2017,Harvest,Establishment,R,12,,49.80643,-91.233474,12yrHarvest,12 Yr Harv.,5.31,14.5,0.71
+Chronosequence,12H-20170705-H-1F,12H,13,s13,1,O,2017,Harvest,Establishment,R,12,,49.80643,-91.233474,12yrHarvest,12 Yr Harv.,5.74,402.52,16.05
+Chronosequence,12H-20170705-H-2F,12H,13,s13,2,O,2017,Harvest,Establishment,R,12,,49.80643,-91.233474,12yrHarvest,12 Yr Harv.,5.74,402.52,16.05
+Chronosequence,12H-20170705-H-3F,12H,13,s13,3,O,2017,Harvest,Establishment,R,12,,49.80643,-91.233474,12yrHarvest,12 Yr Harv.,5.74,402.52,16.05
+Chronosequence,13H-20170705-H-1L,13H,14,s14,1,B,2017,Harvest,Establishment,R,13,,49.806792,-91.260369,13yrHarvest,13 Yr Harv.,5.35,460.49,9.94
+Chronosequence,13H-20170705-H-2L,13H,14,s14,2,B,2017,Harvest,Establishment,R,13,,49.806792,-91.260369,13yrHarvest,13 Yr Harv.,5.35,460.49,9.94
+Chronosequence,13H-20170705-H-3L,13H,14,s14,3,B,2017,Harvest,Establishment,R,13,,49.806792,-91.260369,13yrHarvest,13 Yr Harv.,5.35,460.49,9.94
+Chronosequence,13H-20170705-H-1M,13H,14,s14,1,M,2017,Harvest,Establishment,R,13,,49.806792,-91.260369,13yrHarvest,13 Yr Harv.,5.55,13.39,0.6
+Chronosequence,13H-20170705-H-2M,13H,14,s14,2,M,2017,Harvest,Establishment,R,13,,49.806792,-91.260369,13yrHarvest,13 Yr Harv.,5.55,13.39,0.6
+Chronosequence,13H-20170705-H-3M,13H,14,s14,3,M,2017,Harvest,Establishment,R,13,,49.806792,-91.260369,13yrHarvest,13 Yr Harv.,5.55,13.39,0.6
+Chronosequence,13H-20170705-H-1F,13H,14,s14,1,O,2017,Harvest,Establishment,R,13,,49.806792,-91.260369,13yrHarvest,13 Yr Harv.,5.04,382.94,12.26
+Chronosequence,13H-20170705-H-2F,13H,14,s14,2,O,2017,Harvest,Establishment,R,13,,49.806792,-91.260369,13yrHarvest,13 Yr Harv.,5.04,382.94,12.26
+Chronosequence,13H-20170705-H-3F,13H,14,s14,3,O,2017,Harvest,Establishment,R,13,,49.806792,-91.260369,13yrHarvest,13 Yr Harv.,5.04,382.94,12.26
+Chronosequence,M15-20170705-H-1L,M15,15,s15,1,B,2017,Harvest,Establishment,R,15,,49.765515,-91.169442,Misery15,Misery15,4.88,476.77,9.76
+Chronosequence,M15-20170705-H-2L,M15,15,s15,2,B,2017,Harvest,Establishment,R,15,,49.765515,-91.169442,Misery15,Misery15,4.88,476.77,9.76
+Chronosequence,M15-20170705-H-3L,M15,15,s15,3,B,2017,Harvest,Establishment,R,15,,49.765515,-91.169442,Misery15,Misery15,4.88,476.77,9.76
+Chronosequence,M15-20170705-H-1M,M15,15,s15,1,M,2017,Harvest,Establishment,R,15,,49.765515,-91.169442,Misery15,Misery15,5.06,14.45,0.58
+Chronosequence,M15-20170705-H-2M,M15,15,s15,2,M,2017,Harvest,Establishment,R,15,,49.765515,-91.169442,Misery15,Misery15,5.06,14.45,0.58
+Chronosequence,M15-20170705-H-3M,M15,15,s15,3,M,2017,Harvest,Establishment,R,15,,49.765515,-91.169442,Misery15,Misery15,5.06,14.45,0.58
+Chronosequence,M15-20170705-H-1F,M15,15,s15,1,O,2017,Harvest,Establishment,R,15,,49.765515,-91.169442,Misery15,Misery15,4.48,499.26,12.51
+Chronosequence,M15-20170705-H-2F,M15,15,s15,2,O,2017,Harvest,Establishment,R,15,,49.765515,-91.169442,Misery15,Misery15,4.48,499.26,12.51
+Chronosequence,M15-20170705-H-3F,M15,15,s15,3,O,2017,Harvest,Establishment,R,15,,49.765515,-91.169442,Misery15,Misery15,4.48,499.26,12.51
+Chronosequence,E22-20170705-H-1L,E22,16,s16,1,B,2017,Harvest,CrownClosure,R-CC,22,,49.859957,-91.381126,Elipse22,Elipse,5.27,480.31,11.8
+Chronosequence,E22-20170705-H-2L,E22,16,s16,2,B,2017,Harvest,CrownClosure,R-CC,22,,49.859957,-91.381126,Elipse22,Elipse,5.27,480.31,11.8
+Chronosequence,E22-20170705-H-3L,E22,16,s16,3,B,2017,Harvest,CrownClosure,R-CC,22,,49.859957,-91.381126,Elipse22,Elipse,5.27,480.31,11.8
+Chronosequence,E22-20170705-H-1M,E22,16,s16,1,M,2017,Harvest,CrownClosure,R-CC,22,,49.859957,-91.381126,Elipse22,Elipse,5.55,11.45,0.51
+Chronosequence,E22-20170705-H-2M,E22,16,s16,2,M,2017,Harvest,CrownClosure,R-CC,22,,49.859957,-91.381126,Elipse22,Elipse,5.55,11.45,0.51
+Chronosequence,E22-20170705-H-3M,E22,16,s16,3,M,2017,Harvest,CrownClosure,R-CC,22,,49.859957,-91.381126,Elipse22,Elipse,5.55,11.45,0.51
+Chronosequence,E22-20170705-H-1F,E22,16,s16,1,O,2017,Harvest,CrownClosure,R-CC,22,,49.859957,-91.381126,Elipse22,Elipse,5.12,480.7,15.69
+Chronosequence,E22-20170705-H-2F,E22,16,s16,2,O,2017,Harvest,CrownClosure,R-CC,22,,49.859957,-91.381126,Elipse22,Elipse,5.12,480.7,15.69
+Chronosequence,E22-20170705-H-3F,E22,16,s16,3,O,2017,Harvest,CrownClosure,R-CC,22,,49.859957,-91.381126,Elipse22,Elipse,5.12,480.7,15.69
+Chronosequence,M20-20170705-H-1L,M20,17,s17,1,B,2017,Harvest,CrownClosure,CC,20,,49.758525,-91.173954,Misery20,Misery20,5.52,506.28,11.79
+Chronosequence,M20-20170705-H-2L,M20,17,s17,2,B,2017,Harvest,CrownClosure,CC,20,,49.758525,-91.173954,Misery20,Misery20,5.52,506.28,11.79
+Chronosequence,M20-20170705-H-3L,M20,17,s17,3,B,2017,Harvest,CrownClosure,CC,20,,49.758525,-91.173954,Misery20,Misery20,5.52,506.28,11.79
+Chronosequence,M20-20170705-H-1M,M20,17,s17,1,M,2017,Harvest,CrownClosure,CC,20,,49.758525,-91.173954,Misery20,Misery20,5.72,15.1,0.81
+Chronosequence,M20-20170705-H-2M,M20,17,s17,2,M,2017,Harvest,CrownClosure,CC,20,,49.758525,-91.173954,Misery20,Misery20,5.72,15.1,0.81
+Chronosequence,M20-20170705-H-3M,M20,17,s17,3,M,2017,Harvest,CrownClosure,CC,20,,49.758525,-91.173954,Misery20,Misery20,5.72,15.1,0.81
+Chronosequence,M20-20170705-H-1F,M20,17,s17,1,O,2017,Harvest,CrownClosure,CC,20,,49.758525,-91.173954,Misery20,Misery20,5.88,459.22,17.24
+Chronosequence,M20-20170705-H-2F,M20,17,s17,2,O,2017,Harvest,CrownClosure,CC,20,,49.758525,-91.173954,Misery20,Misery20,5.88,459.22,17.24
+Chronosequence,M20-20170705-H-3F,M20,17,s17,3,O,2017,Harvest,CrownClosure,CC,20,,49.758525,-91.173954,Misery20,Misery20,5.88,459.22,17.24
+Chronosequence,WB-20170705-H-1L,WB,18,s18,1,B,2017,Harvest,CrownClosure,R-CC,25,,49.745922,-91.19053,WhiteBear,White Bear,5.47,510.48,12.71
+Chronosequence,WB-20170705-H-2L,WB,18,s18,2,B,2017,Harvest,CrownClosure,R-CC,25,,49.745922,-91.19053,WhiteBear,White Bear,5.47,510.48,12.71
+Chronosequence,WB-20170705-H-3L,WB,18,s18,3,B,2017,Harvest,CrownClosure,R-CC,25,,49.745922,-91.19053,WhiteBear,White Bear,5.47,510.48,12.71
+Chronosequence,WB-20170705-H-1M,WB,18,s18,1,M,2017,Harvest,CrownClosure,R-CC,25,,49.745922,-91.19053,WhiteBear,White Bear,5.1,13.28,0.52
+Chronosequence,WB-20170705-H-2M,WB,18,s18,2,M,2017,Harvest,CrownClosure,R-CC,25,,49.745922,-91.19053,WhiteBear,White Bear,5.1,13.28,0.52
+Chronosequence,WB-20170705-H-3M,WB,18,s18,3,M,2017,Harvest,CrownClosure,R-CC,25,,49.745922,-91.19053,WhiteBear,White Bear,5.1,13.28,0.52
+Chronosequence,WB-20170705-H-1F,WB,18,s18,1,O,2017,Harvest,CrownClosure,R-CC,25,,49.745922,-91.19053,WhiteBear,White Bear,5.23,491.72,15.99
+Chronosequence,WB-20170705-H-2F,WB,18,s18,2,O,2017,Harvest,CrownClosure,R-CC,25,,49.745922,-91.19053,WhiteBear,White Bear,5.23,491.72,15.99
+Chronosequence,WB-20170705-H-3F,WB,18,s18,3,O,2017,Harvest,CrownClosure,R-CC,25,,49.745922,-91.19053,WhiteBear,White Bear,5.23,491.72,15.99
+Chronosequence,M37-20170705-H-1L,M37,19,s19,1,B,2017,Harvest,Thinning,OST,37,,49.764558,-91.169201,Misery37,Misery37,5.28,517.28,12.19
+Chronosequence,M37-20170705-H-2L,M37,19,s19,2,B,2017,Harvest,Thinning,OST,37,,49.764558,-91.169201,Misery37,Misery37,5.28,517.28,12.19
+Chronosequence,M37-20170705-H-3L,M37,19,s19,3,B,2017,Harvest,Thinning,OST,37,,49.764558,-91.169201,Misery37,Misery37,5.28,517.28,12.19
+Chronosequence,M37-20170705-H-1M,M37,19,s19,1,M,2017,Harvest,Thinning,OST,37,,49.764558,-91.169201,Misery37,Misery37,5.4,19.26,0.74
+Chronosequence,M37-20170705-H-2M,M37,19,s19,2,M,2017,Harvest,Thinning,OST,37,,49.764558,-91.169201,Misery37,Misery37,5.4,19.26,0.74
+Chronosequence,M37-20170705-H-3M,M37,19,s19,3,M,2017,Harvest,Thinning,OST,37,,49.764558,-91.169201,Misery37,Misery37,5.4,19.26,0.74
+Chronosequence,M37-20170705-H-1F,M37,19,s19,1,O,2017,Harvest,Thinning,OST,37,,49.764558,-91.169201,Misery37,Misery37,5.11,498.3,16.76
+Chronosequence,M37-20170705-H-2F,M37,19,s19,2,O,2017,Harvest,Thinning,OST,37,,49.764558,-91.169201,Misery37,Misery37,5.11,498.3,16.76
+Chronosequence,M37-20170705-H-3F,M37,19,s19,3,O,2017,Harvest,Thinning,OST,37,,49.764558,-91.169201,Misery37,Misery37,5.11,498.3,16.76
+Chronosequence,P37-20170705-H-1L,P37,20,s20,1,B,2017,Harvest,Thinning,CC-OST,37,,49.958333,-91.551187,Pepperbelle37,Pepper Bell,3.68,492.69,13.15
+Chronosequence,P37-20170705-H-2L,P37,20,s20,2,B,2017,Harvest,Thinning,CC-OST,37,,49.958333,-91.551187,Pepperbelle37,Pepper Bell,3.68,492.69,13.15
+Chronosequence,P37-20170705-H-3L,P37,20,s20,3,B,2017,Harvest,Thinning,CC-OST,37,,49.958333,-91.551187,Pepperbelle37,Pepper Bell,3.68,492.69,13.15
+Chronosequence,P37-20170705-H-1M,P37,20,s20,1,M,2017,Harvest,Thinning,CC-OST,37,,49.958333,-91.551187,Pepperbelle37,Pepper Bell,5.1,8.6,0.39
+Chronosequence,P37-20170705-H-2M,P37,20,s20,2,M,2017,Harvest,Thinning,CC-OST,37,,49.958333,-91.551187,Pepperbelle37,Pepper Bell,5.1,8.6,0.39
+Chronosequence,P37-20170705-H-3M,P37,20,s20,3,M,2017,Harvest,Thinning,CC-OST,37,,49.958333,-91.551187,Pepperbelle37,Pepper Bell,5.1,8.6,0.39
+Chronosequence,P37-20170705-H-1F,P37,20,s20,1,O,2017,Harvest,Thinning,CC-OST,37,,49.958333,-91.551187,Pepperbelle37,Pepper Bell,3.58,488.2,17.03
+Chronosequence,P37-20170705-H-2F,P37,20,s20,2,O,2017,Harvest,Thinning,CC-OST,37,,49.958333,-91.551187,Pepperbelle37,Pepper Bell,3.58,488.2,17.03
+Chronosequence,P37-20170705-H-3F,P37,20,s20,3,O,2017,Harvest,Thinning,CC-OST,37,,49.958333,-91.551187,Pepperbelle37,Pepper Bell,3.58,488.2,17.03
+Chronosequence,C41-20170705-H-1L,C41,21,s21,1,B,2017,Harvest,Thinning,CC-OST,41,,49.700957,-91.226138,CrystalRiver41,Crystal River,5.38,501.26,12.34
+Chronosequence,C41-20170705-H-2L,C41,21,s21,2,B,2017,Harvest,Thinning,CC-OST,41,,49.700957,-91.226138,CrystalRiver41,Crystal River,5.38,501.26,12.34
+Chronosequence,C41-20170705-H-3L,C41,21,s21,3,B,2017,Harvest,Thinning,CC-OST,41,,49.700957,-91.226138,CrystalRiver41,Crystal River,5.38,501.26,12.34
+Chronosequence,C41-20170705-H-1M,C41,21,s21,1,M,2017,Harvest,Thinning,CC-OST,41,,49.700957,-91.226138,CrystalRiver41,Crystal River,5.16,13.41,0.53
+Chronosequence,C41-20170705-H-2M,C41,21,s21,2,M,2017,Harvest,Thinning,CC-OST,41,,49.700957,-91.226138,CrystalRiver41,Crystal River,5.16,13.41,0.53
+Chronosequence,C41-20170705-H-3M,C41,21,s21,3,M,2017,Harvest,Thinning,CC-OST,41,,49.700957,-91.226138,CrystalRiver41,Crystal River,5.16,13.41,0.53
+Chronosequence,C41-20170705-H-1F,C41,21,s21,1,O,2017,Harvest,Thinning,CC-OST,41,,49.700957,-91.226138,CrystalRiver41,Crystal River,4.71,468.46,15.85
+Chronosequence,C41-20170705-H-2F,C41,21,s21,2,O,2017,Harvest,Thinning,CC-OST,41,,49.700957,-91.226138,CrystalRiver41,Crystal River,4.71,468.46,15.85
+Chronosequence,C41-20170705-H-3F,C41,21,s21,3,O,2017,Harvest,Thinning,CC-OST,41,,49.700957,-91.226138,CrystalRiver41,Crystal River,4.71,468.46,15.85
+Chronosequence,S12-20170705-S-1L,S12,22,s22,1,B,2017,Salvage,Establishment,R,12,,49.263518,-91.224665,Sandal12,Sandal,5.3,478.42,7.05
+Chronosequence,S12-20170705-S-2L,S12,22,s22,2,B,2017,Salvage,Establishment,R,12,,49.263518,-91.224665,Sandal12,Sandal,5.3,478.42,7.05
+Chronosequence,S12-20170705-S-3L,S12,22,s22,3,B,2017,Salvage,Establishment,R,12,,49.263518,-91.224665,Sandal12,Sandal,5.3,478.42,7.05
+Chronosequence,S12-20170705-S-1M,S12,22,s22,1,M,2017,Salvage,Establishment,R,12,,49.263518,-91.224665,Sandal12,Sandal,5.95,22.66,0.89
+Chronosequence,S12-20170705-S-2M,S12,22,s22,2,M,2017,Salvage,Establishment,R,12,,49.263518,-91.224665,Sandal12,Sandal,5.95,22.66,0.89
+Chronosequence,S12-20170705-S-1F,S12,22,s22,1,O,2017,Salvage,Establishment,R,12,,49.263518,-91.224665,Sandal12,Sandal,5.38,428.38,8.89
+Chronosequence,S12-20170705-S-2F,S12,22,s22,2,O,2017,Salvage,Establishment,R,12,,49.263518,-91.224665,Sandal12,Sandal,5.38,428.38,8.89
+Chronosequence,S12-20170705-S-3F,S12,22,s22,3,O,2017,Salvage,Establishment,R,12,,49.263518,-91.224665,Sandal12,Sandal,5.38,428.38,8.89
+Chronosequence,GBA-20170705-S-1L,GBA,23,s23,1,B,2017,Salvage,Establishment,R,13,,49.565747,-89.214412,GullBayA,Gull Bay 1?,5.3,441.27,10.38
+Chronosequence,GBA-20170705-S-2L,GBA,23,s23,2,B,2017,Salvage,Establishment,R,13,,49.565747,-89.214412,GullBayA,Gull Bay 1?,5.3,441.27,10.38
+Chronosequence,GBA-20170705-S-3L,GBA,23,s23,3,B,2017,Salvage,Establishment,R,13,,49.565747,-89.214412,GullBayA,Gull Bay 1?,5.3,441.27,10.38
+Chronosequence,GBA-20170705-S-1M,GBA,23,s23,1,M,2017,Salvage,Establishment,R,13,,49.565747,-89.214412,GullBayA,Gull Bay 1?,5.79,6.6,0.35
+Chronosequence,GBA-20170705-S-2M,GBA,23,s23,2,M,2017,Salvage,Establishment,R,13,,49.565747,-89.214412,GullBayA,Gull Bay 1?,5.79,6.6,0.35
+Chronosequence,GBA-20170705-S-3M,GBA,23,s23,3,M,2017,Salvage,Establishment,R,13,,49.565747,-89.214412,GullBayA,Gull Bay 1?,5.79,6.6,0.35
+Chronosequence,GBA-20170705-S-1F,GBA,23,s23,1,O,2017,Salvage,Establishment,R,13,,49.565747,-89.214412,GullBayA,Gull Bay 1?,5.67,377.65,10.6
+Chronosequence,GBA-20170705-S-2F,GBA,23,s23,2,O,2017,Salvage,Establishment,R,13,,49.565747,-89.214412,GullBayA,Gull Bay 1?,5.67,377.65,10.6
+Chronosequence,GBA-20170705-S-3F,GBA,23,s23,3,O,2017,Salvage,Establishment,R,13,,49.565747,-89.214412,GullBayA,Gull Bay 1?,5.67,377.65,10.6
+Chronosequence,GBB-20170705-S-1L,GBB,24,s24,1,B,2017,Salvage,Establishment,R,13,,49.566346,-89.20946,GullBayB,Gull Bay 2?,5.57,491.7,11.16
+Chronosequence,GBB-20170705-S-2L,GBB,24,s24,2,B,2017,Salvage,Establishment,R,13,,49.566346,-89.20946,GullBayB,Gull Bay 2?,5.57,491.7,11.16
+Chronosequence,GBB-20170705-S-3L,GBB,24,s24,3,B,2017,Salvage,Establishment,R,13,,49.566346,-89.20946,GullBayB,Gull Bay 2?,5.57,491.7,11.16
+Chronosequence,GBB-20170705-S-1M,GBB,24,s24,1,M,2017,Salvage,Establishment,R,13,,49.566346,-89.20946,GullBayB,Gull Bay 2?,5.75,19.25,0.74
+Chronosequence,GBB-20170705-S-2M,GBB,24,s24,2,M,2017,Salvage,Establishment,R,13,,49.566346,-89.20946,GullBayB,Gull Bay 2?,5.75,19.25,0.74
+Chronosequence,GBB-20170705-S-3M,GBB,24,s24,3,M,2017,Salvage,Establishment,R,13,,49.566346,-89.20946,GullBayB,Gull Bay 2?,5.75,19.25,0.74
+Chronosequence,GBB-20170705-S-1F,GBB,24,s24,1,O,2017,Salvage,Establishment,R,13,,49.566346,-89.20946,GullBayB,Gull Bay 2?,5.44,428.94,12.99
+Chronosequence,GBB-20170705-S-2F,GBB,24,s24,2,O,2017,Salvage,Establishment,R,13,,49.566346,-89.20946,GullBayB,Gull Bay 2?,5.44,428.94,12.99
+Chronosequence,GBB-20170705-S-3F,GBB,24,s24,3,O,2017,Salvage,Establishment,R,13,,49.566346,-89.20946,GullBayB,Gull Bay 2?,5.44,428.94,12.99
+Chronosequence,BT20-20170705-S-1L,BT20,25,s25,1,B,2017,Salvage,CrownClosure,R-CC,20,,49.894464,-91.513696,Boot20,Boot Salvage,4.72,469.7,8.52
+Chronosequence,BT20-20170705-S-2L,BT20,25,s25,2,B,2017,Salvage,CrownClosure,R-CC,20,,49.894464,-91.513696,Boot20,Boot Salvage,4.72,469.7,8.52
+Chronosequence,BT20-20170705-S-3L,BT20,25,s25,3,B,2017,Salvage,CrownClosure,R-CC,20,,49.894464,-91.513696,Boot20,Boot Salvage,4.72,469.7,8.52
+Chronosequence,BT20-20170705-S-1M,BT20,25,s25,1,M,2017,Salvage,CrownClosure,R-CC,20,,49.894464,-91.513696,Boot20,Boot Salvage,5.39,10.37,0.41
+Chronosequence,BT20-20170705-S-2M,BT20,25,s25,2,M,2017,Salvage,CrownClosure,R-CC,20,,49.894464,-91.513696,Boot20,Boot Salvage,5.39,10.37,0.41
+Chronosequence,BT20-20170705-S-3M,BT20,25,s25,3,M,2017,Salvage,CrownClosure,R-CC,20,,49.894464,-91.513696,Boot20,Boot Salvage,5.39,10.37,0.41
+Chronosequence,BT20-20170705-S-1F,BT20,25,s25,1,O,2017,Salvage,CrownClosure,R-CC,20,,49.894464,-91.513696,Boot20,Boot Salvage,4.42,479.23,12.66
+Chronosequence,BT20-20170705-S-2F,BT20,25,s25,2,O,2017,Salvage,CrownClosure,R-CC,20,,49.894464,-91.513696,Boot20,Boot Salvage,4.42,479.23,12.66
+Chronosequence,BT20-20170705-S-3F,BT20,25,s25,3,O,2017,Salvage,CrownClosure,R-CC,20,,49.894464,-91.513696,Boot20,Boot Salvage,4.42,479.23,12.66
+Chronosequence,F20-20170705-S-1L,F20,26,s26,1,B,2017,Salvage,CrownClosure,R-CC,20,,49.886975,-91.526651,FlyingLoon20,Flying Loon S.,4.84,472.48,9.66
+Chronosequence,F20-20170705-S-2L,F20,26,s26,2,B,2017,Salvage,CrownClosure,R-CC,20,,49.886975,-91.526651,FlyingLoon20,Flying Loon S.,4.84,472.48,9.66
+Chronosequence,F20-20170705-S-3L,F20,26,s26,3,B,2017,Salvage,CrownClosure,R-CC,20,,49.886975,-91.526651,FlyingLoon20,Flying Loon S.,4.84,472.48,9.66
+Chronosequence,F20-20170705-S-1M,F20,26,s26,1,M,2017,Salvage,CrownClosure,R-CC,20,,49.886975,-91.526651,FlyingLoon20,Flying Loon S.,5.5,6.53,0.29
+Chronosequence,F20-20170705-S-2M,F20,26,s26,2,M,2017,Salvage,CrownClosure,R-CC,20,,49.886975,-91.526651,FlyingLoon20,Flying Loon S.,5.5,6.53,0.29
+Chronosequence,F20-20170705-S-3M,F20,26,s26,3,M,2017,Salvage,CrownClosure,R-CC,20,,49.886975,-91.526651,FlyingLoon20,Flying Loon S.,5.5,6.53,0.29
+Chronosequence,F20-20170705-S-1F,F20,26,s26,1,O,2017,Salvage,CrownClosure,R-CC,20,,49.886975,-91.526651,FlyingLoon20,Flying Loon S.,4.8,407.24,12.69
+Chronosequence,F20-20170705-S-2F,F20,26,s26,2,O,2017,Salvage,CrownClosure,R-CC,20,,49.886975,-91.526651,FlyingLoon20,Flying Loon S.,4.8,407.24,12.69
+Chronosequence,F20-20170705-S-3F,F20,26,s26,3,O,2017,Salvage,CrownClosure,R-CC,20,,49.886975,-91.526651,FlyingLoon20,Flying Loon S.,4.8,407.24,12.69
+Chronosequence,NM-20170705-S-1L,NM,27,s27,1,B,2017,Salvage,CrownClosure,CC,20,,49.58895,-90.42221,North Mawn,North Mawn,5.11,477.63,11.02
+Chronosequence,NM-20170705-S-2L,NM,27,s27,2,B,2017,Salvage,CrownClosure,CC,20,,49.58895,-90.42221,North Mawn,North Mawn,5.11,477.63,11.02
+Chronosequence,NM-20170705-S-3L,NM,27,s27,3,B,2017,Salvage,CrownClosure,CC,20,,49.58895,-90.42221,North Mawn,North Mawn,5.11,477.63,11.02
+Chronosequence,NM-20170705-S-1M,NM,27,s27,1,M,2017,Salvage,CrownClosure,CC,20,,49.58895,-90.42221,North Mawn,North Mawn,5.49,8.01,0.31
+Chronosequence,NM-20170705-S-2M,NM,27,s27,2,M,2017,Salvage,CrownClosure,CC,20,,49.58895,-90.42221,North Mawn,North Mawn,5.49,8.01,0.31
+Chronosequence,NM-20170705-S-3M,NM,27,s27,3,M,2017,Salvage,CrownClosure,CC,20,,49.58895,-90.42221,North Mawn,North Mawn,5.49,8.01,0.31
+Chronosequence,NM-20170705-S-1F,NM,27,s27,1,O,2017,Salvage,CrownClosure,CC,20,,49.58895,-90.42221,North Mawn,North Mawn,4.83,381.52,10.5
+Chronosequence,NM-20170705-S-2F,NM,27,s27,2,O,2017,Salvage,CrownClosure,CC,20,,49.58895,-90.42221,North Mawn,North Mawn,4.83,381.52,10.5
+Chronosequence,NM-20170705-S-3F,NM,27,s27,3,O,2017,Salvage,CrownClosure,CC,20,,49.58895,-90.42221,North Mawn,North Mawn,4.83,381.52,10.5
+Chronosequence,I60-20170705-F-1L,I60,28,s28,1,B,2017,Fire,LateStageThinning,LST,60,,49.446414,-91.613116,Ignace1 60,Ignace 1,5.57,496.61,12.12
+Chronosequence,I60-20170705-F-2L,I60,28,s28,2,B,2017,Fire,LateStageThinning,LST,60,,49.446414,-91.613116,Ignace1 60,Ignace 1,5.57,496.61,12.12
+Chronosequence,I60-20170705-F-3L,I60,28,s28,3,B,2017,Fire,LateStageThinning,LST,60,,49.446414,-91.613116,Ignace1 60,Ignace 1,5.57,496.61,12.12
+Chronosequence,I60-20170705-F-1M,I60,28,s28,1,M,2017,Fire,LateStageThinning,LST,60,,49.446414,-91.613116,Ignace1 60,Ignace 1,5.21,11.88,0.54
+Chronosequence,I60-20170705-F-2M,I60,28,s28,2,M,2017,Fire,LateStageThinning,LST,60,,49.446414,-91.613116,Ignace1 60,Ignace 1,5.21,11.88,0.54
+Chronosequence,I60-20170705-F-3M,I60,28,s28,3,M,2017,Fire,LateStageThinning,LST,60,,49.446414,-91.613116,Ignace1 60,Ignace 1,5.21,11.88,0.54
+Chronosequence,I60-20170705-F-1F,I60,28,s28,1,O,2017,Fire,LateStageThinning,LST,60,,49.446414,-91.613116,Ignace1 60,Ignace 1,4.58,463.4,15.07
+Chronosequence,I60-20170705-F-2F,I60,28,s28,2,O,2017,Fire,LateStageThinning,LST,60,,49.446414,-91.613116,Ignace1 60,Ignace 1,4.58,463.4,15.07
+Chronosequence,I60-20170705-F-3F,I60,28,s28,3,O,2017,Fire,LateStageThinning,LST,60,,49.446414,-91.613116,Ignace1 60,Ignace 1,4.58,463.4,15.07
+Chronosequence,V-20170705-F-1L,V,29,s29,1,B,2017,Fire,LateStageThinning,OST-LST,56,,49.622994,-91.476045,Victoria,Victoria,4.77,508.11,10.2
+Chronosequence,V-20170705-F-2L,V,29,s29,2,B,2017,Fire,LateStageThinning,OST-LST,56,,49.622994,-91.476045,Victoria,Victoria,4.77,508.11,10.2
+Chronosequence,V-20170705-F-3L,V,29,s29,3,B,2017,Fire,LateStageThinning,OST-LST,56,,49.622994,-91.476045,Victoria,Victoria,4.77,508.11,10.2
+Chronosequence,V-20170705-F-1M,V,29,s29,1,M,2017,Fire,LateStageThinning,OST-LST,56,,49.622994,-91.476045,Victoria,Victoria,5.44,20.04,0.81
+Chronosequence,V-20170705-F-2M,V,29,s29,2,M,2017,Fire,LateStageThinning,OST-LST,56,,49.622994,-91.476045,Victoria,Victoria,5.44,20.04,0.81
+Chronosequence,V-20170705-F-3M,V,29,s29,3,M,2017,Fire,LateStageThinning,OST-LST,56,,49.622994,-91.476045,Victoria,Victoria,5.44,20.04,0.81
+Chronosequence,V-20170705-F-1F,V,29,s29,1,O,2017,Fire,LateStageThinning,OST-LST,56,,49.622994,-91.476045,Victoria,Victoria,4.8,518.35,13.3
+Chronosequence,V-20170705-F-2F,V,29,s29,2,O,2017,Fire,LateStageThinning,OST-LST,56,,49.622994,-91.476045,Victoria,Victoria,4.8,518.35,13.3
+Chronosequence,V-20170705-F-3F,V,29,s29,3,O,2017,Fire,LateStageThinning,OST-LST,56,,49.622994,-91.476045,Victoria,Victoria,4.8,518.35,13.3
+Chronosequence,SOW-20170705-H-1L,SOW,30,s30,1,B,2017,Harvest,LateStageThinning,OST-LST,50,HarvestedPlanted,49.657933,-91.257494,Sowden,Sowden,5.05,492.67,11.04
+Chronosequence,SOW-20170705-H-2L,SOW,30,s30,2,B,2017,Harvest,LateStageThinning,OST-LST,50,HarvestedPlanted,49.657933,-91.257494,Sowden,Sowden,5.05,492.67,11.04
+Chronosequence,SOW-20170705-H-3L,SOW,30,s30,3,B,2017,Harvest,LateStageThinning,OST-LST,50,HarvestedPlanted,49.657933,-91.257494,Sowden,Sowden,5.05,492.67,11.04
+Chronosequence,SOW-20170705-H-1M,SOW,30,s30,1,M,2017,Harvest,LateStageThinning,OST-LST,50,HarvestedPlanted,49.657933,-91.257494,Sowden,Sowden,5.35,16.13,0.56
+Chronosequence,SOW-20170705-H-2M,SOW,30,s30,2,M,2017,Harvest,LateStageThinning,OST-LST,50,HarvestedPlanted,49.657933,-91.257494,Sowden,Sowden,5.35,16.13,0.56
+Chronosequence,SOW-20170705-H-3M,SOW,30,s30,3,M,2017,Harvest,LateStageThinning,OST-LST,50,HarvestedPlanted,49.657933,-91.257494,Sowden,Sowden,5.35,16.13,0.56
+Chronosequence,SOW-20170705-H-1F,SOW,30,s30,1,O,2017,Harvest,LateStageThinning,OST-LST,50,HarvestedPlanted,49.657933,-91.257494,Sowden,Sowden,5.02,502.71,15.89
+Chronosequence,SOW-20170705-H-2F,SOW,30,s30,2,O,2017,Harvest,LateStageThinning,OST-LST,50,HarvestedPlanted,49.657933,-91.257494,Sowden,Sowden,5.02,502.71,15.89
+Chronosequence,SOW-20170705-H-3F,SOW,30,s30,3,O,2017,Harvest,LateStageThinning,OST-LST,50,HarvestedPlanted,49.657933,-91.257494,Sowden,Sowden,5.02,502.71,15.89
+Chronosequence,T-20170705-H-1L,T,31,s31,1,B,2017,Harvest,LateStageThinning,NA,66,,49.689873,-87.967925,Tyrol,NA,5.31,486.53,10.78
+Chronosequence,T-20170705-H-2L,T,31,s31,2,B,2017,Harvest,LateStageThinning,NA,66,,49.689873,-87.967925,Tyrol,NA,5.31,486.53,10.78
+Chronosequence,T-20170705-H-3L,T,31,s31,3,B,2017,Harvest,LateStageThinning,NA,66,,49.689873,-87.967925,Tyrol,NA,5.31,486.53,10.78
+Chronosequence,T-20170705-H-1M,T,31,s31,1,M,2017,Harvest,LateStageThinning,NA,66,,49.689873,-87.967925,Tyrol,NA,5.69,6.73,0.27
+Chronosequence,T-20170705-H-2M,T,31,s31,2,M,2017,Harvest,LateStageThinning,NA,66,,49.689873,-87.967925,Tyrol,NA,5.69,6.73,0.27
+Chronosequence,T-20170705-H-3M,T,31,s31,3,M,2017,Harvest,LateStageThinning,NA,66,,49.689873,-87.967925,Tyrol,NA,5.69,6.73,0.27
+Chronosequence,T-20170705-H-1F,T,31,s31,1,O,2017,Harvest,LateStageThinning,NA,66,,49.689873,-87.967925,Tyrol,NA,5.11,453.43,12.56
+Chronosequence,T-20170705-H-2F,T,31,s31,2,O,2017,Harvest,LateStageThinning,NA,66,,49.689873,-87.967925,Tyrol,NA,5.11,453.43,12.56
+Chronosequence,T-20170705-H-3F,T,31,s31,3,O,2017,Harvest,LateStageThinning,NA,66,,49.689873,-87.967925,Tyrol,NA,5.11,453.43,12.56
