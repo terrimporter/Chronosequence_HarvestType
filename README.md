@@ -9,6 +9,9 @@ This repository contains the supplementary scripts and files used in the preprin
 Please acknowledge the preprint:  
 Porter, T. M., Morris, D. M., Smenderovac, E., Emilson, E. J. S., & Venier, L. (2024). Soil communities following clearcut and salvage harvest have different early successional dynamics compared with post-wildfire patterns. BioRxiv, https://doi.org/10.1101/2024.11.10.622867
 
+You can also cite this repo:  
+Teresita M. Porter. (2025). terrimporter/Chronosequence_HarvestType: Chronosequence Harvest Type v1 (Chronosequence_HarvestType_v1). Zenodo. https://doi.org/10.5281/zenodo.17114382
+
 ## Digital Resources
 
 The code for the MetaWorks bioinformatic pipeline that we developed to process multi-marker metabarcoding data is available from https://github.com/terrimporter/MetaWorks, installation and usage instructions are available here https://terrimporter.github.io/MetaWorksSite/, and our publication is https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0274260 .  
